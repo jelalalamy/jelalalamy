@@ -1,3 +1,5 @@
+import Resume from "./Resume"
+
 const Experience = () => {
   return (
     <section id="experience" className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24" aria-label="Work experience">
@@ -54,6 +56,7 @@ const Experience = () => {
             </div>
           </li>
         </ol>
+        <Resume/>
       </div>
     </section>
   )
