@@ -1,5 +1,6 @@
 import About from "./About"
 import Experience from "./Experience"
+import Footer from "./Footer"
 import Projects from "./Projects"
 
 const Main = () => {
@@ -8,6 +9,7 @@ const Main = () => {
       <About/>
       <Experience/>
       <Projects/>
+      <Footer/>
     </main>
   )
 }
