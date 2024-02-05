@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCard"
 const projects = [
   {
     name: "StormAI",
-    description: "A collaborative real-time whiteboarding and brainstorming platform that leverages AI to facilitate productivity. Create, share, and join rooms to work with others using classic whiteboard features like sticky notes, mindmaps, and drawings on top of AI-powered tools that can generate text, images, and more.",
+    description: "A collaborative real-time whiteboarding and brainstorming platform that leverages AI to facilitate productivity. Create, share, and join rooms to work with others using classic whiteboard features like sticky notes, mindmaps, and drawings on top of AI-powered tools that can generate text, images, and more directly on the whiteboard.",
     technologies: ["JavaScript", "React", "Node.js", "MongoDB", "Tailwind", "React Flow", "Yjs", "OpenAI"],
     link: "https://github.com/jelalalamy/StormAI",
     preview: "/stormai.png",
