@@ -6,13 +6,25 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquet vulputate quam vitae tempus. Fusce pharetra ligula ut magna faucibus, ut blandit sem malesuada. Mauris et libero eu arcu laoreet scelerisque eget at lectus. Curabitur volutpat dui nisl, a consequat leo suscipit quis. Donec vulputate elementum sapien ac egestas. Nam in augue vitae lorem fermentum.
+          Back in 2020, I decided to try my hand at creating a custom Chrome extension and took my first steps on a long journey of coding and web 
+          development. Fast-forward to today, and I've had the privilege of contributing to a robust&nbsp;
+          <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://www.dashhudson.com/" target="_blank" rel="noreferrer noopener" aria-label="social media management platform (opens in a new tab)">social media management platform</a>
+          , an&nbsp;
+          <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://www.sapfioneer.com/" target="_blank" rel="noreferrer noopener" aria-label="end-to-end financial service (opens in a new tab)">end-to-end financial service</a>
+          , and numerous&nbsp;
+          <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://github.com/jelalalamy/StormAI" target="_blank" rel="noreferrer noopener" aria-label="student-led projects (opens in a new tab)">student-led projects</a>
+          , all while pursuing a degree at the&nbsp;
+          <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://www.utoronto.ca/" target="_blank" rel="noreferrer noopener" aria-label="University of Toronto (opens in a new tab)">University of Toronto</a>
+          .
         </p>
         <p className="mb-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed ligula mauris. Mauris ultricies congue erat, finibus vehicula justo ultrices vel. Proin venenatis tempus tincidunt. Sed erat metus, semper nec fermentum non, egestas non orci. Praesent semper felis sed sagittis finibus. Sed tristique ipsum lorem, malesuada pulvinar mi mattis sed. Sed finibus velit quam, eu sollicitudin ligula rutrum at. Curabitur fermentum tincidunt odio vel ullamcorper.
+          My main focus these days is building unique and engaging projects while finishing up my final year of studies. I mostly enjoy building software
+          that perfectly balances design and functionality — things that look good but also serve a real purpose.
         </p>
         <p className="mb-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non enim eget mauris imperdiet viverra.
+          When I'm not working, I'm usually playing badminton, hanging out with friends, watching food videos, or relaxing while listening to some of my&nbsp;
+          <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO" target="_blank" rel="noreferrer noopener" aria-label="favourite artists (opens in a new tab)">favourite artists</a>
+          .
         </p>
       </div>
     </section>
