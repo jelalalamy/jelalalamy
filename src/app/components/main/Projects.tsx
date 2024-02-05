@@ -4,16 +4,16 @@ import ProjectCard from "./ProjectCard"
 const projects = [
   {
     name: "StormAI",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet vel lacus at scelerisque. Vestibulum a ex nec metus ultrices pulvinar. Phasellus porttitor mauris lacinia commodo pretium. Suspendisse fermentum vel felis non laoreet. Aenean consequat massa eros, at faucibus quam feugiat sit amet. Pellentesque pharetra vehicula scelerisque. Nulla purus sem, bibendum in vestibulum non, tristique.",
-    technologies: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "SQLAlchemy"],
+    description: "A collaborative real-time whiteboarding and brainstorming platform that leverages AI to facilitate productivity. Create, share, and join rooms to work with others using classic whiteboard features like sticky notes, mindmaps, and drawings on top of AI-powered tools that can generate text, images, and more.",
+    technologies: ["JavaScript", "React", "Node.js", "MongoDB", "Tailwind", "React Flow", "Yjs", "OpenAI"],
     link: "https://github.com/jelalalamy/StormAI",
     preview: "/stormai.png",
     altText: "StormAI project card",
   },
   {
     name: "LAHP",
-    description: "Gorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet vel lacus at scelerisque. Vestibulum a ex nec metus ultrices pulvinar. Phasellus porttitor mauris lacinia commodo pretium. Suspendisse fermentum vel felis non laoreet. Aenean consequat massa eros, at faucibus quam feugiat sit amet. Pellentesque pharetra vehicula scelerisque. Nulla purus sem, bibendum in vestibulum non, tristique.",
-    technologies: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],
+    description: "A Chrome extension that modifies the new tab with more tools and an improved user interface, utilizing public APIs to display hourly weather updates, inspirational quotes, and more.",
+    technologies: ["JavaScript", "React", "Tailwind", "APIs"],
     link: "https://github.com/jelalalamy/LAHP-v2",
     preview: "/lahp.jpg",
     altText: "LAHP project card"
