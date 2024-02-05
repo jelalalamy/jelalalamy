@@ -13,6 +13,17 @@ const HeaderSocials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-6 w-6" aria-hidden="true"><path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path></svg>
         </a>
       </li>
+      <li className="mr-5 text-xs shrink-0">
+        <a className="block hover:text-slate-200" href="mailto:jeremy.la@mail.utoronto.ca" target="_blank" rel="noreferrer noopener" aria-label="Email (opens in email viewer)" title="Email">
+          <span className="sr-only">Email</span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330.001 330.001" fill="currentColor" className="h-6 w-6">
+            <g id="XMLID_348_">
+              <path id="XMLID_350_" d="M173.871,177.097c-2.641,1.936-5.756,2.903-8.87,2.903c-3.116,0-6.23-0.967-8.871-2.903L30,84.602 L0.001,62.603L0,275.001c0.001,8.284,6.716,15,15,15L315.001,290c8.285,0,15-6.716,15-14.999V62.602l-30.001,22L173.871,177.097z"/>
+              <polygon id="XMLID_351_" points="165.001,146.4 310.087,40.001 19.911,40" />
+            </g>
+          </svg>
+        </a>
+      </li>
     </ul>
   )
 }
