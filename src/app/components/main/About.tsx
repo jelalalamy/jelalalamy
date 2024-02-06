@@ -7,7 +7,7 @@ const About = () => {
       <div>
         <p className="mb-4">
           Back in 2020, I decided to try my hand at creating a custom Chrome extension and took my first steps on a long journey of coding and web 
-          development. Fast-forward to today, and I've had the privilege of contributing to a robust&nbsp;
+          development. Fast-forward to today, and I&apos;ve had the privilege of contributing to a robust&nbsp;
           <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://www.dashhudson.com/" target="_blank" rel="noreferrer noopener" aria-label="social media management platform (opens in a new tab)">social media management platform</a>
           , an&nbsp;
           <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://www.sapfioneer.com/" target="_blank" rel="noreferrer noopener" aria-label="end-to-end financial service (opens in a new tab)">end-to-end financial service</a>
@@ -22,7 +22,7 @@ const About = () => {
           that perfectly balances design and functionality — things that look good but also serve a real purpose.
         </p>
         <p className="mb-4">
-          When I'm not working, I'm usually playing badminton, hanging out with friends, watching food videos, or relaxing while listening to some of my&nbsp;
+          When I&apos;m not working, I&apos;m usually playing badminton, hanging out with friends, watching food videos, or relaxing while listening to some of my&nbsp;
           <a className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300" href="https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO" target="_blank" rel="noreferrer noopener" aria-label="favourite artists (opens in a new tab)">favourite artists</a>
           .
         </p>
