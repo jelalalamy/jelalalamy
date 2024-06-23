@@ -18,6 +18,14 @@ const projects = [
     preview: "/lahp.jpg",
     altText: "LAHP project card"
   },
+  {
+    name: "TravNav",
+    description: "A travel planning application where users can plan optimal routes and directions between multiple destinations, using real-time data from the official Google Maps API.",
+    technologies: ["Python", "Flask", "TypeScript", "React", "Google Maps API"],
+    link: "https://github.com/jelalalamy/travnav",
+    preview: "/travnav.png",
+    altText: "TravNav project card"
+  },
 ]
 
 const Projects = () => {
