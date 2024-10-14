@@ -26,6 +26,14 @@ const projects = [
     preview: "/travnav.png",
     altText: "TravNav project card"
   },
+  {
+    name: "LangChain Open Source Contribution",
+    description: "Added support for a variety of languages, such as C, C++, Rust, Ruby, and more, allowing LangChain users to conveniently load codebases written in these languages into many small “documents” and improve the efficiency and accuracy of LLM-based code QA.",
+    technologies: ["Python", "tree-sitter"],
+    link: "https://github.com/langchain-ai/langchain/issues/11229",
+    preview: "/langchain.png",
+    altText: "LangChain project card"
+  },
 ]
 
 const Projects = () => {
