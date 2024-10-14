@@ -38,7 +38,7 @@ const Projects = () => {
         <ul className="group/list">
           {projects.map(project => <ProjectCard key={project.name} project={project}/>)}
         </ul>
-        <ProjectArchive />
+        {/* <ProjectArchive /> */}
       </div>
     </section>
   )
