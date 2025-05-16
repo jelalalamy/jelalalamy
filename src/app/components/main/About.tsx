@@ -18,7 +18,7 @@ const About = () => {
           .
         </p>
         <p className="mb-4">
-          I'm currently working at Google as a Software Engineer on the Search Maps team. The map that you see on Search? That was us.
+          I&apos;m currently working at Google as a Software Engineer on the Search Maps team. The map that you see on Search? That was us.
         </p>
         <p className="mb-4">
           When I&apos;m not working, I&apos;m usually playing badminton, hanging out with friends, watching food videos, or relaxing while listening to some of my&nbsp;
