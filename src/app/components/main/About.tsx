@@ -18,8 +18,7 @@ const About = () => {
           .
         </p>
         <p className="mb-4">
-          My main focus these days is building unique and engaging projects while finishing up my final year of studies. I mostly enjoy building software
-          that perfectly balances design and functionality — things that look good but also serve a real purpose.
+          I'm currently working at Google as a Software Engineer on the Search Maps team. The map that you see on Search? That was us.
         </p>
         <p className="mb-4">
           When I&apos;m not working, I&apos;m usually playing badminton, hanging out with friends, watching food videos, or relaxing while listening to some of my&nbsp;
