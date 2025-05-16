@@ -3,6 +3,14 @@ import Resume from "./Resume"
 
 const experiences = [
   {
+    date: "Jan 2025 — Present",
+    company: "Google",
+    role: "Software Engineer",
+    description: "Currently developing beautiful map experiences on Search.",
+    technologies: ["TypeScript", "Java", "Kotlin"],
+    link: "https://www.google.com",
+  },
+  {
     date: "Sept — Dec 2023",
     company: "Dash Hudson",
     role: "Software Developer Intern",
