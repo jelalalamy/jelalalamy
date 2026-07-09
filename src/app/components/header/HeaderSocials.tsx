@@ -14,7 +14,7 @@ const HeaderSocials = () => {
         </a>
       </li>
       <li className="mr-5 text-xs shrink-0">
-        <a className="block hover:text-slate-200" href="mailto:jeremy.la@mail.utoronto.ca" target="_blank" rel="noreferrer noopener" aria-label="Email (opens in email viewer)" title="Email">
+        <a className="block hover:text-slate-200" href="mailto:jeremylai511@gmail.com" target="_blank" rel="noreferrer noopener" aria-label="Email (opens in email viewer)" title="Email">
           <span className="sr-only">Email</span>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330.001 330.001" fill="currentColor" className="h-6 w-6">
             <g id="XMLID_348_">
